@@ -6,6 +6,7 @@ If you are working a lot of php projects and If you want to pull lastest commits
 ## How to use
 You think there are projects is in one directory like this.
 
+```sh
 /Users/mahmut/Code/Acme/
 ├── acme-account
 ├── acme-acquirer
@@ -30,6 +31,7 @@ You think there are projects is in one directory like this.
 ├── acme-reporting
 ├── acme-reporting-api
 ├── acme-tokenization
+```
 
 ```sh
 $./up-all.py -p /Users/mahmut/Code/Acme/
